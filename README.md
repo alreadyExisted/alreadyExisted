@@ -1,8 +1,8 @@
-﻿### Hi there, I'm Vitaliy - aka [alreadyExisted][website]
+﻿### Hi there, I'm Vitaliy - aka alreadyExisted
 
 ## I'm a Developer, Husband, and Gamer!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
@@ -49,7 +49,6 @@
 
 <img align="left" alt="alreadyExisted's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alreadyExisted&show_icons=true&hide_border=true" />
 
-[website]: https://www.myfe.site
 [linkedin]: https://www.linkedin.com/in/polyanskiy-vitaliy/
 [instagram]: https://www.instagram.com/vitaliypolyansky/
 [dl-certificate]: https://www.coursera.org/account/accomplishments/verify/HDXPRY6V326U
